@@ -10,7 +10,7 @@
       <div
         class="main-error"
         v-if="error">
-        <p>Type somenting</p>
+        <p>Type something</p>
       </div>
     </div>
     <div class="item">
